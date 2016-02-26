@@ -7,7 +7,7 @@ icecaststatus.class.php
 AXELS ICECAST STATUS PARSER
 V1.0
 
-http://www.axel-hahn.de/php_contentcache.php
+http://www.axel-hahn.de/php_icecaststatus
 License: GNU/GPL v3
 
 2013-11-14  1.0  first time in the wild.
